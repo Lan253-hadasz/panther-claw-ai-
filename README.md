@@ -1,2 +1,23 @@
-# panther-claw-ai-
-/panther-claw-ai │ ├── README.md ├── demo-scenarios.md ├── system-prompt.txt ├── architecture.md └── api-example.py
+
+# Panther‑Claw AI — Warm & Wise Guide
+
+Panther‑Claw AI — это тёплый и мудрый проводник, созданный на базе Gemini 3. Он объединяет стратегию, психологическую поддержку, символизм, творчество и аналитику в одном интеллектуальном агенте.
+
+## Возможности
+- Стратегия и принятие решений
+- Психологическая поддержка
+- Ритуалы и символы
+- Творческие тексты и легенды
+- Анализ ситуаций и данных
+
+## Технологии
+- Gemini 3 API
+- AI Studio Agent
+- Contextual Reasoning
+- Generative Text
+
+## Запуск
+1. Открыть AI Studio
+2. Создать нового агента
+3. Вставить System Prompt
+4. Включить публичный доступ
